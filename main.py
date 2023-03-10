@@ -9,4 +9,4 @@
 if __name__ == '__main__':
     print("Hello Python!")
     print("Test pull!!!")
-    print("你是真的菜")
+    print("你是真垃圾呀")
